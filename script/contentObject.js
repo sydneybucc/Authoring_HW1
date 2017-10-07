@@ -6,7 +6,20 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
-				"spring_2.jpg"
+				"spring_2.jpg",
+				"spring_3.jpg",
+				"spring_4.jpg",
+				"spring_5.jpg",
+				"spring_6.jpg"
+			],
+
+			imageDescription : [
+				"A beautiful outlook over mountains in spring.",
+				"Blossoming cherry tree on a lovely spring day.",
+				"Rich green colours in the meadow.",
+				"A sunflower.",
+				"Rows of cherry trees.",
+				"Two birds."
 			]
 		},
 
@@ -17,7 +30,20 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
-				"summer_2.jpg"
+				"summer_2.jpg",
+				"summer_3.jpg",
+				"summer_4.jpg",
+				"summer_5.jpg",
+				"summer_6.jpg"
+			],
+
+			imageDescription : [
+				"Yellow umbrella and chair on the beach. Great colours for summer!",
+				"Dandilion seeds flying in the wind.",
+				"Beach ball and goggles ready to play in the water.",
+				"A pink donut floaty in the pool",
+				"A long walkway towards buildings on the beach.",
+				"A coconut and sandals."
 			]
 		},
 
@@ -28,7 +54,20 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
-				"autumn_2.jpg"
+				"autumn_2.jpg",
+				"autumn_3.jpg",
+				"autumn_4.jpg",
+				"autumn_5.jpg",
+				"autumn_6.jpg"
+			],
+
+			imageDescription : [
+				"A tire swing on a autumn evening.",
+				"Flowing water surrounded by seasoned and evergreen trees.",
+				"Beautiful red leaves",
+				"Refelction of the trees in the water",
+				"Layers of pretty orange leaves",
+				"Pumpkins and sunflowers"
 			]
 		},
 
@@ -39,7 +78,20 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
-				"winter_2.jpg"
+				"winter_2.jpg",
+				"winter_3.jpg",
+				"winter_4.jpg",
+				"winter_5.jpg",
+				"winter_6.jpg"
+			],
+
+			imageDescription : [
+				"Snowy landscape at night",
+				"Icy trees overlooking a hill.",
+				"Frozen river.",
+				"Evergreen trees covered in snow.",
+				"A beautiful Christmas tree with the lights on.",
+				"Amazing mountain with colourful houses at the base."
 			]
 		}
 	};
